@@ -439,3 +439,10 @@ a:focus, a:hover, a:active {
 .iconz {
   font-size: 20px;
 }
+
+.modalp {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Lato';
+  color: #2C3E50;
+}
